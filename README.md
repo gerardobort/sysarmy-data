@@ -1,6 +1,6 @@
 # Sysarmy salary surveys 
 
-The current repository aims to help understand the evolution of salaries in technology in the region (Argentina mainly, and Latin America).  The datasets were taken from Sysarmy's blog, they do the surveys and share publicly the results.
+The current repository aims to help understand the evolution of salaries in technology for the region (Argentina mainly, and Latin America).  The datasets were taken from Sysarmy's blog, they do the surveys (survey takers and companies are anonymous) and share publicly the results.
 
 ## Source
 
@@ -8,16 +8,18 @@ https://sysarmy.com.ar/blog
 
 ## Datasets
 
-| Period  | URL                                                                                                         |
-|---------|-------------------------------------------------------------------------------------------------------------|
-| 2014.02 | http://sysarmy.com.ar/blog/wp-content/uploads/2015/01/sysarmy-resultados-encuesta-remuneracion-salarial.csv |
-| 2015.01 | http://sysarmy.com.ar/blog/wp-content/uploads/2015/09/sysarmy-encuesta-salarial-julio-2015.csv              |
-| 2016.01 | https://sysarmy.com.ar/blog/wp-content/uploads/2016/02/sysarmy-encuesta-salarial-enero-2016.csv             |
-| 2016.02 | https://sysarmy.com.ar/blog/wp-content/uploads/2016/08/encuesta-sueldos-sysarmy-openqube.zip                |
-| 2017.01 | https://docs.google.com/spreadsheets/d/1diZG7ruHJ4OgO2-tbnO-ZnhjxjOnYjMVSxl7I-4LT54/edit#gid=1424918437     |
-| 2017.02 |                                                                                                             |
+## Index
 
-### Available data per dataset
+| Period  | Path             | URL                                                                                                         |
+|---------|------------------|-------------------------------------------------------------------------------------------------------------|
+| 2014.02 | data/2014.02.csv | http://sysarmy.com.ar/blog/wp-content/uploads/2015/01/sysarmy-resultados-encuesta-remuneracion-salarial.csv |
+| 2015.01 | data/2015.01.csv | http://sysarmy.com.ar/blog/wp-content/uploads/2015/09/sysarmy-encuesta-salarial-julio-2015.csv              |
+| 2016.01 | data/2016.01.csv | https://sysarmy.com.ar/blog/wp-content/uploads/2016/02/sysarmy-encuesta-salarial-enero-2016.csv             |
+| 2016.02 | data/2016.02/    | https://sysarmy.com.ar/blog/wp-content/uploads/2016/08/encuesta-sueldos-sysarmy-openqube.zip                |
+| 2017.01 | data/2017.01/    | https://docs.google.com/spreadsheets/d/1diZG7ruHJ4OgO2-tbnO-ZnhjxjOnYjMVSxl7I-4LT54/edit#gid=1424918437     |
+| 2017.02 | -                | -                                                                                                           |
+
+### Available data per Dataset (structure)
 
 ### 2014.02
 
