@@ -2,6 +2,12 @@
 
 The current repository aims to help understand the evolution of salaries in technology for the region (Argentina mainly, and Latin America).  The datasets were taken from Sysarmy's blog, they do the surveys (survey takers and companies are anonymous) and share publicly the results.
 
+## Notebooks / Dashboards
+
+https://github.com/gerardobort/sysarmy-sueldos/blob/master/notebooks/intra_period_argentina.ipynb
+
+![](https://github.com/gerardobort/sysarmy-sueldos/blob/master/doc/sample.png)
+
 ## Source
 
 https://sysarmy.com.ar/blog
