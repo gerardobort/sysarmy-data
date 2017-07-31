@@ -4,9 +4,9 @@ The current repository aims to help understand the evolution of salaries in tech
 
 ## Notebooks / Dashboards
 
-https://github.com/gerardobort/sysarmy-sueldos/blob/master/notebooks/intra_period_argentina.ipynb
+https://github.com/gerardobort/sysarmy-data/blob/master/notebooks/intra_period_argentina.ipynb
 
-![](https://github.com/gerardobort/sysarmy-sueldos/blob/master/doc/sample.png)
+![](https://github.com/gerardobort/sysarmy-data/blob/master/doc/sample.png)
 
 ## Source
 
