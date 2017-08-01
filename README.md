@@ -6,8 +6,6 @@ The current repository aims to help understand the evolution of salaries in tech
 
 https://github.com/gerardobort/sysarmy-data/blob/master/notebooks/intra_period_argentina.ipynb
 
-![](https://github.com/gerardobort/sysarmy-data/blob/master/doc/sample.png)
-
 ## Source
 
 https://sysarmy.com.ar/blog
