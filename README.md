@@ -14,7 +14,7 @@ https://sysarmy.com.ar/blog
 
 ## Datasets
 
-## Index
+### Salaries
 
 | Period  | Path             | URL                                                                                                         |
 |---------|------------------|-------------------------------------------------------------------------------------------------------------|
@@ -24,6 +24,12 @@ https://sysarmy.com.ar/blog
 | 2016.02 | data/2016.02/    | https://sysarmy.com.ar/blog/wp-content/uploads/2016/08/encuesta-sueldos-sysarmy-openqube.zip                |
 | 2017.01 | data/2017.01/    | https://docs.google.com/spreadsheets/d/1diZG7ruHJ4OgO2-tbnO-ZnhjxjOnYjMVSxl7I-4LT54/edit#gid=1424918437     |
 | 2017.02 | -                | -                                                                                                           |
+
+### Argentine Peso `AR$` currency over time
+
+| Period  | Path                 | URL                                                                                                     |
+|---------|----------------------|---------------------------------------------------------------------------------------------------------|
+| 5Y      | data/usdars-cur.json | https://www.bloomberg.com/markets/api/bulk-time-series/price/USDARS%3ACUR?timeFrame=5_YEAR              |
 
 ### Available data per Dataset (structure)
 
