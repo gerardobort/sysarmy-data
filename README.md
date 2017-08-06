@@ -7,9 +7,14 @@ The current repository aims to help understand the evolution of salaries in tech
 https://github.com/gerardobort/sysarmy-data/blob/master/notebooks/intra_period_argentina.ipynb
 https://github.com/gerardobort/sysarmy-data/blob/master/notebooks/argentina_currency_5y.ipynb
 
-## Source
+## Sources
 
 https://sysarmy.com.ar/blog
+https://www.bloomberg.com
+
+## Contributing
+
+Contributions are welcome! in the shape of Pull Requests more than Issues.  Except for corrections, if you have any new analysis you want to add, please add your own IPython notebook inside the `notebooks/` folder and datasets inside `data/`, and send me a PR!
 
 ## Datasets
 
