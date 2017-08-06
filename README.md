@@ -10,7 +10,10 @@ https://github.com/gerardobort/sysarmy-data/blob/master/notebooks/argentina_curr
 ## Sources
 
 https://sysarmy.com.ar/blog
+
 https://www.bloomberg.com
+
+Inspired on the analysis made by @fernandezpablo85 (dataset `2016.02`), published in the SysArmy blog.
 
 ## Contributing
 
