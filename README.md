@@ -25,12 +25,12 @@ Contributions are welcome! in the shape of Pull Requests more than Issues.  Exce
 
 | Period  | Path             | URL                                                                                                         |
 |---------|------------------|-------------------------------------------------------------------------------------------------------------|
-| 2014.02 | data/2014.02.csv | http://sysarmy.com.ar/blog/wp-content/uploads/2015/01/sysarmy-resultados-encuesta-remuneracion-salarial.csv |
-| 2015.01 | data/2015.01.csv | http://sysarmy.com.ar/blog/wp-content/uploads/2015/09/sysarmy-encuesta-salarial-julio-2015.csv              |
-| 2016.01 | data/2016.01.csv | https://sysarmy.com.ar/blog/wp-content/uploads/2016/02/sysarmy-encuesta-salarial-enero-2016.csv             |
-| 2016.02 | data/2016.02/    | https://sysarmy.com.ar/blog/wp-content/uploads/2016/08/encuesta-sueldos-sysarmy-openqube.zip                |
+| 2014.02 | data/2014.02.csv | https://drive.google.com/open?id=0B7UapTwn9AahWkdEWnltRjUwVjQ                                               |
+| 2015.01 | data/2015.01.csv | https://drive.google.com/open?id=0B7UapTwn9AahSHl1aGNfTlNrYWc                                               |
+| 2016.01 | data/2016.01.csv | https://drive.google.com/open?id=0B7UapTwn9AahLTJmSE5zOUQ0aGc                                               |
+| 2016.02 | data/2016.02/    | https://drive.google.com/open?id=0B7UapTwn9AahUGtySFBjdHBCcWs                                               |
 | 2017.01 | data/2017.01/    | https://docs.google.com/spreadsheets/d/1diZG7ruHJ4OgO2-tbnO-ZnhjxjOnYjMVSxl7I-4LT54/edit#gid=1424918437     |
-| 2017.02 | -                | -                                                                                                           |
+| 2017.02 | data/2017.02/    | https://docs.google.com/spreadsheets/d/1f1CAmzbVtoL66IwXJWEf0Mn-QbMNGZIoCQ_b1HB-91E                         |
 
 ### Argentine Peso `AR$` currency over time
 
@@ -171,4 +171,37 @@ Contributions are welcome! in the shape of Pull Requests more than Issues.  Exce
 * Cantidad de empleados
 * Cambiaste de empresa en los últimos 6 meses?
 * Cuál fue el principal motivo de cambio?
+* Beneficios extra
+
+### 2017.02
+
+* Me identifico
+* Tengo
+* Argentina
+* Años de experiencia
+* Años en el puesto actual
+* ¿Gente a cargo?
+* ¿Cuánta?
+* Trabajo de
+* Tecnologías que utilizás
+* Tecnologías que utilizás
+* Tecnologías que utilizás
+* Automation o funcional?
+* Tecnologías que utilizás
+* Tecnologías que utilizás
+* ¿Tenés guardias?
+* Cuánto cobrás por guardia (en tu moneda local)
+* ¿Porcentaje, bruto o neto?
+* Tipo de contrato
+* Salario mensual (en tu moneda local)
+* ¿Bruto o neto?
+* ¿Qué tan conforme estás con tu sueldo?
+* Cómo creés que está tu sueldo con respecto a Enero 2017
+* Recibís algún tipo de bono
+* A qué está atado el bono
+* ¿Tuviste ajustes por inflación en 2017?
+* ¿De qué % fue el ajuste?
+* Cantidad de empleados
+* ¿Cambiaste de empresa en los últimos 6 meses?
+* ¿Cuál fue el principal motivo de cambio?
 * Beneficios extra
