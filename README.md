@@ -206,3 +206,40 @@ Contributions are welcome! in the shape of Pull Requests more than Issues.  Exce
 * ¿Cambiaste de empresa en los últimos 6 meses?
 * ¿Cuál fue el principal motivo de cambio?
 * Beneficios extra
+
+### 2018.01
+
+* Me identifico
+* Tengo
+* Argentina
+* Años de experiencia
+* Años en el puesto actual
+* ¿Gente a cargo?
+* ¿Cuánta?
+* Nivel de estudios alcanzado
+* Estado
+* Carrera
+* Realizaste cursos de especialización
+* Trabajo de
+* Tecnologías que utilizás
+* Tecnologías que utilizás
+* Tecnologías que utilizás
+* Automation o funcional?
+* Tecnologías que utilizás
+* Tecnologías que utilizás
+* ¿Tenés guardias?
+* Cuánto cobrás por guardia (en tu moneda local)
+* "¿Porcentaje, bruto o neto?"
+* Tipo de contrato
+* Salario mensual (en tu moneda local)
+* ¿Bruto o neto?
+* ¿Qué tan conforme estás con tu sueldo?
+* Cómo creés que está tu sueldo con respecto a julio 2017
+* Recibís algún tipo de bono
+* A qué está atado el bono
+* ¿Tuviste ajustes por inflación en 2017?
+* ¿De qué % fue el ajuste?
+* Cantidad de empleados
+* ¿Cambiaste de empresa en los últimos 6 meses?
+* ¿Cuál fue el principal motivo de cambio?
+* Beneficios extra
