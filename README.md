@@ -4,9 +4,7 @@ The current repository aims to help understand the evolution of salaries in tech
 
 ## Notebooks / Dashboards
 
-https://github.com/gerardobort/sysarmy-data/blob/master/notebooks/intra_period_argentina.ipynb
-https://github.com/gerardobort/sysarmy-data/blob/master/notebooks/argentina_gender_es.ipynb
-https://github.com/gerardobort/sysarmy-data/blob/master/notebooks/argentina_currency_5y.ipynb
+https://github.com/gerardobort/sysarmy-data/blob/master/notebooks
 
 ## Sources
 
@@ -32,6 +30,7 @@ Contributions are welcome! in the shape of Pull Requests more than Issues.  Exce
 | 2016.02 | data/2016.02/    | https://drive.google.com/open?id=0B7UapTwn9AahUGtySFBjdHBCcWs                                               |
 | 2017.01 | data/2017.01/    | https://docs.google.com/spreadsheets/d/1diZG7ruHJ4OgO2-tbnO-ZnhjxjOnYjMVSxl7I-4LT54/edit#gid=1424918437     |
 | 2017.02 | data/2017.02/    | https://docs.google.com/spreadsheets/d/1f1CAmzbVtoL66IwXJWEf0Mn-QbMNGZIoCQ_b1HB-91E                         |
+| 2018.01 | data/2018.01/    | https://docs.google.com/spreadsheets/d/1OcOGeYEsI-iIO_QNfl_8avUK2ifg9wRFUly-f-c1CJM/edit#gid=2144425141     |
 
 ### Argentine Peso `AR$` currency over time
 
