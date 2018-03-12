@@ -4,9 +4,7 @@ The current repository aims to help understand the evolution of salaries in tech
 
 ## Notebooks / Dashboards
 
-https://github.com/gerardobort/sysarmy-data/blob/master/notebooks/intra_period_argentina.ipynb
-https://github.com/gerardobort/sysarmy-data/blob/master/notebooks/argentina_gender_es.ipynb
-https://github.com/gerardobort/sysarmy-data/blob/master/notebooks/argentina_currency_5y.ipynb
+https://github.com/gerardobort/sysarmy-data/blob/master/notebooks
 
 ## Sources
 
@@ -32,6 +30,7 @@ Contributions are welcome! in the shape of Pull Requests more than Issues.  Exce
 | 2016.02 | data/2016.02/    | https://drive.google.com/open?id=0B7UapTwn9AahUGtySFBjdHBCcWs                                               |
 | 2017.01 | data/2017.01/    | https://docs.google.com/spreadsheets/d/1diZG7ruHJ4OgO2-tbnO-ZnhjxjOnYjMVSxl7I-4LT54/edit#gid=1424918437     |
 | 2017.02 | data/2017.02/    | https://docs.google.com/spreadsheets/d/1f1CAmzbVtoL66IwXJWEf0Mn-QbMNGZIoCQ_b1HB-91E                         |
+| 2018.01 | data/2018.01/    | https://docs.google.com/spreadsheets/d/1OcOGeYEsI-iIO_QNfl_8avUK2ifg9wRFUly-f-c1CJM/edit#gid=2144425141     |
 
 ### Argentine Peso `AR$` currency over time
 
@@ -198,6 +197,43 @@ Contributions are welcome! in the shape of Pull Requests more than Issues.  Exce
 * ¿Bruto o neto?
 * ¿Qué tan conforme estás con tu sueldo?
 * Cómo creés que está tu sueldo con respecto a Enero 2017
+* Recibís algún tipo de bono
+* A qué está atado el bono
+* ¿Tuviste ajustes por inflación en 2017?
+* ¿De qué % fue el ajuste?
+* Cantidad de empleados
+* ¿Cambiaste de empresa en los últimos 6 meses?
+* ¿Cuál fue el principal motivo de cambio?
+* Beneficios extra
+
+### 2018.01
+
+* Me identifico
+* Tengo
+* Argentina
+* Años de experiencia
+* Años en el puesto actual
+* ¿Gente a cargo?
+* ¿Cuánta?
+* Nivel de estudios alcanzado
+* Estado
+* Carrera
+* Realizaste cursos de especialización
+* Trabajo de
+* Tecnologías que utilizás
+* Tecnologías que utilizás
+* Tecnologías que utilizás
+* Automation o funcional?
+* Tecnologías que utilizás
+* Tecnologías que utilizás
+* ¿Tenés guardias?
+* Cuánto cobrás por guardia (en tu moneda local)
+* "¿Porcentaje, bruto o neto?"
+* Tipo de contrato
+* Salario mensual (en tu moneda local)
+* ¿Bruto o neto?
+* ¿Qué tan conforme estás con tu sueldo?
+* Cómo creés que está tu sueldo con respecto a julio 2017
 * Recibís algún tipo de bono
 * A qué está atado el bono
 * ¿Tuviste ajustes por inflación en 2017?
